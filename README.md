@@ -11,3 +11,7 @@ characters to be read for each read() call.
 
 ## Result
 100% moulinette Epitech
+
+### Coverage
+76.3% branches  
+88.5% lines
